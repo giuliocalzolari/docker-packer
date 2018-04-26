@@ -8,5 +8,4 @@ RUN apk add --no-cache \
         pip \
         awscli
 
-
 ENTRYPOINT ["/bin/bash"]
