@@ -1,4 +1,4 @@
-FROM hashicorp/packer:1.2.3
+FROM hashicorp/packer:1.4.3
 
 RUN apk add --no-cache \
         bash \
